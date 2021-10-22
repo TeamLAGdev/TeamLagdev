@@ -1,11 +1,10 @@
-### Hi there 👋
 
 Olá eu sou o TeamLagdev
 
 - 🔭 Hoje estou estudando para me tornar fullstack
 - 🌱 Estudando JavaScript, php , css , html e react
-- 👯 I’Contato : teamlag434@gmail.com
-- 😄 Pronouns: ...
+- 👯 Contato : teamlag434@gmail.com
+
 - 
 <div align="center">
   <a href="https://github.com/TeamLagdev">
