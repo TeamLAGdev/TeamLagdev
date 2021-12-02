@@ -5,7 +5,7 @@ Olá eu sou o TeamLagdev
 - 🌱 Estudando JavaScript, php , css , html e react
 - 👯 Contato : teamlag434@gmail.com
 
-- 
+
 <div align="center">
   <a href="https://github.com/TeamLagdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeamLAGdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
