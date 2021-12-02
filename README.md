@@ -4,6 +4,10 @@ Olá nós somos o TeamLagdev
 - 🔭 Hoje estamos estudando para nos tornar desenvolvedores fullstack
 - 🌱 Estudando JavaScript, php , css , html e react
 - 👯 Contato : teamlag434@gmail.com
+- Integrantes:
+- https://github.com/LeonardoMarcelo/Leonardomarcelo
+- https://github.com/GabrielBarbosa0/GabrielBarbosa0
+- https://github.com/GabrielBarbosa0/GabrielBarbosa0
 
 
 <div align="center">
