@@ -1,7 +1,7 @@
 
-Olá eu sou o TeamLagdev
+Olá nós somos o TeamLagdev
 
-- 🔭 Hoje estou estudando para me tornar fullstack
+- 🔭 Hoje estamos estudando para nos tornar desenvolvedores fullstack
 - 🌱 Estudando JavaScript, php , css , html e react
 - 👯 Contato : teamlag434@gmail.com
 
