@@ -1,5 +1,5 @@
 
-Olá nós somos o TeamLagdev
+      Olá nós somos o TeamLagdev
 
 - 🔭 Hoje estamos estudando para nos tornar desenvolvedores fullstack
 - 🌱 Estudando JavaScript, php , css , html e react
